@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "dine_mode": "takeaway",
+  "store": { "code": "REPLACE_STORE_CODE", "name": "示例：中关村麦当劳（请替换为真实门店）" },
+  "delivery_address": { "id": "", "name": "" },
+  "combo": {
+    "group_a": { "code": "REPLACE_A_CODE", "name": "吉士蛋麦满分" },
+    "group_b": { "code": "REPLACE_B_CODE", "name": "薯条(小)" }
+  },
+  "updated_at": "2026-10-10T12:00:00+08:00"
+}
